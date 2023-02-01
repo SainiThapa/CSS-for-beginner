@@ -1,0 +1,9 @@
+div{
+    background-color: peachpuff;
+    width: 300px;
+    border:1px solid black;
+    padding:50px 30px 50px 30px;
+    text-align:center;
+    margin:100px 0px 0px 0px;
+    position: relative; 
+}

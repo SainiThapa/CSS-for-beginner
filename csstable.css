@@ -1,0 +1,23 @@
+ /* Table border */
+table,th,td{
+    border:1px inset black;
+} 
+
+/* Table size */
+table{
+    width: 100px;
+}
+th{height: 50px;}
+
+/* table Alignment */
+/* td{text-align: center;} */
+
+/* Table style
+th,td{padding:15px;
+border: bottom 1px solid#ff0099;} */
+tr:hover{background-color: yellow;}
+tr:nth :nth-child(even){background-color:#f2f2;}
+th{
+    background-color: #55ff00;
+    color:Blue;
+}

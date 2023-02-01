@@ -1,0 +1,8 @@
+p,.main,#para1{
+    color: blue;
+    text-size: 30px;
+}
+body{
+    background-image: url("https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png");
+    background-repeat:no-repeat;
+}
